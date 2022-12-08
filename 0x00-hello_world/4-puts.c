@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * output to standard O
+ * main - output to standard O
  */
 
 int main(void)
