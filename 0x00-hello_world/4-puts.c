@@ -1,6 +1,8 @@
 #include<stdio.h>
 /**
- * main - output to standard O
+ * main - prints programming is like building a multilngual puzzle
+ *
+ * Return: 0 for main functionaliy
  */
 
 int main(void)
