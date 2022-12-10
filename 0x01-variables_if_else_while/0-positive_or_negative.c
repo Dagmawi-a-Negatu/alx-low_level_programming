@@ -1,17 +1,18 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/**
+/**more headers goes there
  * printf function definition
  * For some builtin function
  * For time builtin function
  */
 
 
-/** 
+/**betty style doc for function main goes there 
  * main - generates random number and checks weather pos, neg, 0
  *
- * Return: 0 for main integer return functionality */
+ * Return: 0 for main integer return functionality
+ */
 int main(void)
 {
 	int n;
