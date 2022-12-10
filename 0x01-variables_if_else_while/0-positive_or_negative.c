@@ -6,8 +6,8 @@
  * For some builtin function
  * For time builtin function
  */
-/*
- * main - Check if number is pos, neg or zero
+/**
+ * main - Prints if number generated is positive, negative or zero
  *
  * Return: 0 for main integer return functionality
  */
