@@ -1,18 +1,22 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /*
  * Standard Input output
  * Time builtin function
  * Other builtin function
 */
-/*
- * main - Check last digit is greater than 5, less than 6 or equal to 0
+
+/**
+ * main - Print last digit of number and if it's 0, greater than 5, less than 6
+ *
+ * Description: This is a longer description
+ * Print random generated number.
+ * Caculate and print last digit of generated number.
+ * Check if last digit is greater than 5, equal to 0 or less than 6 and not 0
  *
  * Return: Return integer 0 for main functionality
  */
-
 int main(void)
 {
 	int n;
