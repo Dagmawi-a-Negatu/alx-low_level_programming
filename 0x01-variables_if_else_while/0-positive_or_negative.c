@@ -9,7 +9,7 @@
 
 
 /**betty style doc for function main goes there 
- * main - generates random number and checks weather pos, neg, 0
+ * main - generate random number and check if pos, neg or zero
  *
  * Return: 0 for main integer return functionality
  */
