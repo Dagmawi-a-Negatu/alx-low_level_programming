@@ -9,8 +9,12 @@
 
 
 /**betty style doc for function main goes there 
- * main - generate random number and check if pos, neg or zero
+ * main - Check if number is pos, neg or zero
  *
+ * Description: This is a longer description
+ * Generate random number
+ * Check generated number value
+ * Print if number is positive, negative or zero
  * Return: 0 for main integer return functionality
  */
 int main(void)
