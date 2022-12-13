@@ -1,15 +1,6 @@
 #include <stdio.h>
 
 /**
- * main - for main functionality
- *
- * Return: 0 always
- */
-int main(void)
-{
-	return (0);
-}
-/**
  * print_alphabet - print all alphabets in lowercase
  *
  */
