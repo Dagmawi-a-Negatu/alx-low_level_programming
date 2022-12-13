@@ -1,12 +1,8 @@
 #include "main.h"
-/**
- *main - print all alphabets in lowercase
- *
- * Return: 0 always
+/*
+ *main. h file for print alphabet function
  */
 
-int main(void)
-{
-	print_alphabet();
-	return (0);
-}
+print_alphabet();
+	
+
