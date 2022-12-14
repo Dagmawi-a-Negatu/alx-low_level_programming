@@ -3,6 +3,7 @@
  * int prototypes(int)
  * void prototypes(int)
  */
+int add(int a, int b);
 int print_last_digit(int n);
 int _abs(int n);
 int print_sign(int n);
