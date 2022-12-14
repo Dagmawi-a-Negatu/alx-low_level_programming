@@ -20,6 +20,10 @@ int print_sign(int n)
 		printf("+\r");
 	}
 	if (n < 0)
-		return ("-1");
-	return ("00");
+	{
+		return (-1);
+		printf("-\r");
+	}
+	return (0);
+	printf("0");
 }
