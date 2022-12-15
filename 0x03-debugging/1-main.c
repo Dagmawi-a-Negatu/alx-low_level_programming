@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <istdio.h>
 
 /**
  *
@@ -9,17 +9,16 @@
  * */
 int main(void)
 {
-	int i;
-
+	int i
 	printf("Infinite loop incoming :(\n");
 
-	/**i = 0;
+	//i = 0;
 
-	while (i < 10)
-	{
-		putchar(i);
+	//while (i < 10)
+	//{
+		//putchar(i);
 
-	}*/
+	//}
 
 	printf("Infinite loop avoided! \\o/\n");
 
