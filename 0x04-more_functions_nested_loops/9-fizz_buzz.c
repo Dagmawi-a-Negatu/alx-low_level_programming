@@ -2,8 +2,6 @@
 
 /**
  * main- Fizz-buzz interview question
- *
- * Return: always return 0
  */
 void main(void)
 {
