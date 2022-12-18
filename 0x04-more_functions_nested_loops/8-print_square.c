@@ -10,14 +10,24 @@ void print_square(int size)
 {
 	int i;
 	int j;
+	int k;
+	int space;
+	int astericnum;
 
-	if (size <= 0)
-		_putchar('\n');
+	space = size;
+	astericnum = 1;
 	for (i = 0; i < size; i++)
 	{
-		for (j = 0; j < size; j++)
+		for (k = 1; k < space; k++)
+			_putchar(' ');
+		for (j = 0; j < astericnum; j++)
 			_putchar('#');
+		space--;
+		astericnum++
 		_putchar('\n');
 	}
+	
+	if (size <= 0)
+		_putchar('\n');
 
 }
