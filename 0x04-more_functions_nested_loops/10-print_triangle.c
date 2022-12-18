@@ -8,25 +8,25 @@
  */
 void print_triangle(int size)
 {
-	int i;
-	int j;
-	int k;
-	int space;
-	int astericnum;
+	/* int i; */
+	/* int j; */
+	/* int k; */
+	/* int space; */
+	/* int astericnum; */
 
-	space = size;
-	astericnum = 1;
-	for (i = 0; i < size; i++)
-	{
-		for (k = 1; k < space; k++)
-			_putchar(' ');
-		for (j = 0; j < astericnum; j++)
-			_putchar('#');
-		space--;
-		astericnum++
-		_putchar('\n');
-	}
-	
+	/* space = size; */
+	/* astericnum = 1; */
+	/* for (i = 0; i < size; i++) */
+	/* { */
+		/* for (k = 1; k < space; k++) */
+			/*_putchar(' '); */
+		/* for (j = 0; j < astericnum; j++) */
+			/* _putchar('#'); */
+		/* space--; */
+		/* astericnum++ */
+	/*	_putchar('\n'); */
+	/* }*/
+
 	if (size <= 0)
 		_putchar('\n');
 
