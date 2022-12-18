@@ -2,8 +2,10 @@
 
 /**
  * main- Fizz-buzz interview question
+ *
+ * Return: always return 0
  */
-void main(void)
+int main(void)
 {
 	int i;
 	int n;
@@ -20,5 +22,7 @@ void main(void)
 		else
 			printf("%d ", i);
 	}
+
 	putchar('\n');
+	return (0);
 }
