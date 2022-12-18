@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 /**
- * print_numbers- checks if character is uppercase
+ * print_number- checks if character is uppercase
  * @n: value to be printed
  */
 void print_number(int n)
