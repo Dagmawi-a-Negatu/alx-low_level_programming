@@ -9,9 +9,9 @@
 void print_diagonal(int n)
 {
 	int i;
-	/* int x; */
+	int x;
 
-	/* x = 0; */
+	x = 1;
 	for (i = 0; i < n; i++)
 	{
 		_putchar('/');
