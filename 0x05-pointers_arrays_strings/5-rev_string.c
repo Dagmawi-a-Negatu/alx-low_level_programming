@@ -9,13 +9,11 @@ void rev_string(char *s)
 {
 	int i;
 	char ch;
-	char *rev;
-
-	rev = "";
+	
 	for (i = strlen(s) - 1; i >= 0; i--)
 	{
 		ch = s[i];
-		strncat(rev, &ch, 1);
+		strncat(s, &ch, 1);
 	}
-	s = rev;
+	
 }
