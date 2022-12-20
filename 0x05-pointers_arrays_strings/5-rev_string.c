@@ -11,7 +11,6 @@ void rev_string(char *s)
 	char ch;
 	char *rev;
 	
-	rev = "1";
 	for (i = strlen(s) - 1; i >= 0; i--)
 	{
 		ch = s[i];
