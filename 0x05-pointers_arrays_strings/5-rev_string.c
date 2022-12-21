@@ -14,5 +14,6 @@ void rev_string(char *s)
 	{
 		rev += s[i];
 	}
+	printf("%c", rev);
 	s = rev;	
 }
