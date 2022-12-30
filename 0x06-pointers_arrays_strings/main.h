@@ -1,9 +1,4 @@
-#include <stdio.h>
-
-/*
- * prototype function
- */
-
-void _puts(char *str);
-char *_strcat(char *dest, char *src);
+#include <stdio.h>                                                                                                           
+void _puts(char *str);                                                          
+char *_strcat(char *dest, char *src);                                           
 char *_strncat(char *dest, char *src, int n);
