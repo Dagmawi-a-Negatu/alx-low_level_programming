@@ -7,7 +7,7 @@
  * @src: strubg to be appended
  *
  * Return: concatnated string
- */ 
+ */
 char *_strcat(char *dest, char *src)
 {
 	strcat(dest, src);
