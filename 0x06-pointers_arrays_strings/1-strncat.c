@@ -5,7 +5,7 @@
  * *_strncat - concatnates two strings
  * @dest: string to be added on
  * @src: strubg to be appended
- * @n: 
+ * @n:
  * Return: concatnated string
  */
 char *_strncat(char *dest, char *src, int n)
