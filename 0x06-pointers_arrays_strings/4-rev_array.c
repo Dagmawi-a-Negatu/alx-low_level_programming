@@ -2,12 +2,11 @@
 #include <string.h>
 
 /**
- * _strcmp - concatnates two strings
- * @s1: First integer
- * @s2: second integer
- * Return: Integer always
+ * reverse_array- reverses an array
+ * @a: array
+ * @n: number of array element
  */
-int _strcmp(char *s1, char *s2)
+void reverse_array(int *a, int n)
 {
-	return (strcmp(s1, s2));
+	return (a);
 }
