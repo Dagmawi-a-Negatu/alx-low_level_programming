@@ -1,13 +1,12 @@
 #include "main.h"
 #include <string.h>
-#include <ctype.h>
 
 /**
- * *string_toupper - return all uppercase letters
- * @*: string to be returned
- * Return: string
+ * reverse_array- reverses an array
+ * @a: array
+ * @n: number of array element
  */
-char *string_toupper(char *i)
+void reverse_array(int *a, int n)
 {
-	return (i);
+	a[0] = 0;
 }
