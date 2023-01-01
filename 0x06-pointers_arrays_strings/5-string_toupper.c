@@ -7,7 +7,7 @@
  * @*: string to be returned
  * Return: string
  */
-char *string_toupper(char *)
+char *string_toupper(char *i)
 {
-	return (toupper(*));
+	return (i);
 }
