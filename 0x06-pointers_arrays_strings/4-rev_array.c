@@ -8,5 +8,5 @@
  */
 void reverse_array(int *a, int n)
 {
-	/*:wq hlsdlkjfkd */
+	a[0] = 0;
 }
