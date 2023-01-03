@@ -6,7 +6,7 @@
  * *: char to b
  * Return: string
  */
-char *string_toupper(char *)
+char *string_toupper(char *l)
 {
-	return (*);
+	return (l);
 }
