@@ -2,8 +2,8 @@
 #include <string.h>
 
 /**
- * *string_toupper- change all lowercase letters to uppercase
- * *: char to be uppercased
+ * reverse_array- reverses an array
+ * *: char to b
  * Return: string
  */
 char *string_toupper(char *)
