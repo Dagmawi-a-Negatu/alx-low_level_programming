@@ -3,7 +3,7 @@
 #include <string.h>
 
 /**
- * *_strchr - Returns initial segment of s consisting only of bytes accept
+ * *_strspn - Returns initial segment of s consisting only of bytes accept
  * @s: string parameter as initial segment
  * @accept: strings used for number of bytes managment
  *
