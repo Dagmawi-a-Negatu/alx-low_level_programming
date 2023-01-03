@@ -2,11 +2,11 @@
 #include <string.h>
 
 /**
- * reverse_array- reverses an array
- * @a: array
- * @n: number of array element
+ * *string_toupper- change all lowercase letters to uppercase
+ * *: char to be uppercased
+ * Return: string
  */
-void reverse_array(int *a, int n)
+char *string_toupper(char *)
 {
-	a[0] = 0;
+	return (*);
 }
